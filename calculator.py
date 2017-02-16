@@ -1,6 +1,7 @@
-#assignment test
+#!/bin/sh
+python3 calculator.py
 
-num1 = int(raw_input())
-num2 = int(raw_input())
+num1 = int(input())
+num2 = int(input())
 sum = num1 + num2
 print(sum)
