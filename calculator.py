@@ -1,6 +1,3 @@
-#!/bin/sh
-python3 calculator.py
-
 num1 = int(input())
 num2 = int(input())
 sum = num1 + num2
